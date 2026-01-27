@@ -1,0 +1,25 @@
+Crea un contesto per una metafora di input senza menzionarne l'interpretazione diretta.
+
+# Esempio
+
+Input: Venezia è una perla
+
+Output:
+Sono stato a Venezia e mi ha colpito molto. Ha dei canali bellissimi e palazzi antichi. È una delle pochissime città in cui le auto non circolano. Venezia è una perla.
+
+---
+
+Qui occorreva non menzionare l'interpretazione più diretta "Venezia è rara e preziosa". Infatti si sono usate caratteristiche indirette di Venezia che la rendono tale.
+
+# Esempio errato
+
+Input: Questo barbiere è un chirurgo.
+
+Output:
+Ogni volta che entro in quel piccolo salone, vedo precisione e cura in ogni gesto. Le forbici scorrono con la stessa attenzione di uno strumento medico, e ogni taglio sembra studiato per valorizzare la persona che ho davanti. Questo barbiere è un chirurgo.
+
+---
+Non commettere i seguenti errori:
+Qui "precisione e cura" appartengono all'interpretazione diretta.
+La frase "la stessa attenzione di uno strumento medico" anticipa la metafora.
+La frase "ogni taglio sembra studiato per valorizzare la persona che ho davanti" sarebbe stata una proposizione più adeguata se non fosse stato per le altre.
